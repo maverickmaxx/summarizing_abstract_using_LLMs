@@ -1,0 +1,4 @@
+# note uploading the data
+data/
+data/.*
+/.DS_Store
